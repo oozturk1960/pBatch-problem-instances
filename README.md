@@ -22,3 +22,5 @@ Line 7: job processing times\
 Line 8: job sizes\
 Line 9: job weights\
 Line 10: beginning of job time windows (ej) \
+
+To be able to run the executable files, you will need CPLEX 22.1.1 and the last version of JDK installed on your computer.
