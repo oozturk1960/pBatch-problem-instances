@@ -1,5 +1,6 @@
 # pBatch-problem-instances
 sumCj instances folder contains problem instances for the flow time minimization. The structure of the file on the example below.
+
 1 (number of machines) 
 3 (capacity of machines)
 10 (number of jobs)
