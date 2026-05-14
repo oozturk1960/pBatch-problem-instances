@@ -1,18 +1,14 @@
 # pBatch-problem-instances
-sumCj instances folder contains problem instances for the flow time minimization. The structure of the file on the example below.
+"sumCj instances" and "wETj instances" folders contain problem instances for the flow time minimization and weighted earlines/tardiness minimization, recpectively. The structure of the files is explained below
 
-1 (number of machines) 
+sumCj instances:
+Line 1: Number of machines
+Line 2: Capacity of machines
+Line 3: number of jobs
+Line 4: job indices
+Line 5: job release dates
+Line 6: job processing times
+Line 7: job sizes
+Line 8: job weights
 
-3 (capacity of machines)
 
-10 (number of jobs)
-
-1 2 3 4 5 6 7 8 9 10 (job indices)
-
-1 6 9 10 22 25 38 45 48 48 (job release dates)
-
-24 48 35 41 15 9 22 4 39 42 (job processing times)
-
-1 1 1 1 1 1 1 1 1 1 (job sizes)
-
-1 1 1 1 1 1 1 1 1 1 (job weights)
